@@ -1,0 +1,49 @@
+.body {
+        margin:20px;
+        padding:0;        
+        text-align:left; 
+    }
+
+.menu {
+        margin:20px;
+        padding:20px;        
+        text-align:left; 
+    }    
+
+.a {
+        padding:20px; 
+        margin-top:150px;
+        margin-left: 500px;
+        margin-right: 500px;        
+        padding:0;        
+        text-align:center; 
+    } 
+    
+.container {
+        padding:20px; 
+        margin-top:150px;
+        margin-left: 500px;
+        margin-right: 500px;
+        background-color:#f1f1f1;
+        text-align:center; 
+    }     
+
+/*.btn-group button {
+    background-color: #4CAF50;  Green background 
+    border: 1px solid green;  Green border 
+    color: white;  White text 
+    padding: 10px 24px;  Some padding 
+    cursor: pointer;  Pointer/hand icon 
+    width: 50%;  Set a width if needed 
+    display: block;  Make the buttons appear below each other 
+}
+
+.btn-group button:not(:last-child) {
+    border-bottom: none;  Prevent double borders 
+}
+
+ Add a background color on hover 
+.btn-group button:hover {
+    background-color: #3e8e41;
+}*/
+        
